@@ -1,6 +1,6 @@
 import React from 'react';
 
-import logo from '../assets/icon.jpg';
+import logo from '../assets/icons/logo.png';
 import facebook from '../assets/icons/facebook.png';
 import instagram from '../assets/icons/instagram.png';
 import linkedin from '../assets/icons/linkedin.png';
@@ -15,7 +15,7 @@ const Footer = () => {
           <div class="start">
             <img src={logo} alt="" />
             <div class="title" >
-              buyWthPulkit
+              buyWithSatyam
             </div>
           </div>
         </a>

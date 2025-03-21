@@ -1,12 +1,12 @@
 import React from 'react'
-import logo from '../assets/icon.jpg'
+import logo from '../assets/icons/logo.png'
 
 const Navbar = () => {
   return (
       <nav class="navbar navbar-expand-lg container-fluid navbar-dark bg-dark">
           <div class="container-fluid">
               <a href="/" class="navbar-brand head">
-                  <img src={logo} alt="" width="30" height="24" class="d-inline-block align-text-top" />              buyWithPulkit
+                  <img src={logo} alt="" width="30" height="24" class="d-inline-block align-text-top" />              buyWithSatyam
               </a>
               <a class="navbar-brand" href="/">Home</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
